@@ -1,0 +1,10 @@
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\Converter.exe
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+c:\users\misha\source\repos\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+c:\users\misha\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+c:\users\misha\source\repos\Converter\Converter\obj\Debug\Converter.exe
+c:\users\misha\source\repos\Converter\Converter\obj\Debug\Converter.pdb
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\Json.dll
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\misha\source\repos\Converter\Converter\bin\Debug\Json.pdb
